@@ -1,0 +1,8 @@
+Everyone is seeking for methods to innovate and use new technologies in today's competitive world. For those looking for an automated way to acquire structured web data, web scraping—also known as web data extraction or data scraping—offers a solution. If the public website you want to get data from doesn't have an API or if it does but only offers restricted access to the data, web scraping can be helpful.
+Web scraping is the automated method of gathering structured web data. Another name for it is web data extraction. Web scraping has many different uses, but some of the more common ones include pricing monitoring, price intelligence, news monitoring, lead generation, and market research.
+People and corporations who wish to leverage the large amount of publicly available web data to make better decisions typically employ web data extraction.If you've ever manually copied and pasted content from a webpage, you've already performed the same task as a web scraper. Web scraping uses sophisticated automation to obtain hundreds, millions, or even billions of data points from the internet's content, as opposed to the tedious, mind-numbing process of manually retrieving data.
+Identify the target website
+Collect URLs of the pages where you want to extract data from
+Make a request to these URLs to get the HTML of the page
+Use locators to find the data in the HTML
+Save the data in a JSON or CSV file or some other structured format
